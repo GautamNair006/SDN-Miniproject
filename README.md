@@ -1,8 +1,7 @@
 # SDN Mininet – Orange Problem: Network Utilization Monitor
 
 ## Project Description
-This project demonstrates the design and implementation of a Software‑Defined Networking (SDN) solution using **Mininet** as the network emulator and the **Ryu controller** as the control plane. The custom Ryu application integrates three core functions:
-- **Forwarding logic**: Learns MAC addresses and installs flow rules for efficient packet forwarding.  
+This project demonstrates the design and implementation of a Software‑Defined Networking (SDN) solution using **Mininet** as the network emulator and the **Ryu controller** as the control plane. The custom Ryu application integrates core functions:
 - **Firewall rule**: Blocks traffic between specific hosts to enforce policies.  
 - **Bandwidth monitoring**: Periodically polls OpenFlow switches for port statistics, calculates utilization in Mbps, and logs results.
 
