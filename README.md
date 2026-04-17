@@ -22,7 +22,7 @@ Validation is done through Mininet experiments:
    ```bash
    python3 -m venv ryu-env
    source ryu-env/bin/activate
-  
+   ```
 
 ## Setup & Execution Steps
 1. **Run the controller**  
