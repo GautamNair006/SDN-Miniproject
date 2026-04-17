@@ -1,4 +1,4 @@
-# SDN Mininet – Orange Problem
+# SDN Mininet – Orange Problem: Network Utilization Monitor
 
 ## Project Description
 This project demonstrates the design and implementation of a Software‑Defined Networking (SDN) solution using **Mininet** as the network emulator and the **Ryu controller** as the control plane. The custom Ryu application integrates three core functions:
