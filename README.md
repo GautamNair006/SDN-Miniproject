@@ -27,7 +27,7 @@ Validation is done through Mininet experiments:
 ## Setup & Execution Steps
 1. **Run the controller**  
    ```bash
-   ryu-manager code/extended_monitor.py
+   ryu-manager Code/extended_monitor.py
    
 2. **Start Mininet topology**
    ```bash
